@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>axel</name>
+		<description>Axel's Gentoo overlay</description>
+		<homepage>https://github.com/axelfischer/gentoo-overlay</homepage>
+		<owner>
+			<email>axel@awf0.xyz</email>
+		</owner>
+		<source type="git">https://github.com/axelfischer/gentoo-overlay.git</source>
+	</repo>
+</repositories>
